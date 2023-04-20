@@ -32,9 +32,9 @@ Marking Scheme
 
 To get full marks you should use:
 
-At least one class
-At least one array
-At least one arraylist
-Loops
+- At least one class
+- At least one array
+- At least one arraylist
+- Loops
 
-- [Submit your github repo here](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUNllDWlNCRlRRSE8yQlJTSENZUlE1Q0oxMi4u)
+[Submit your github repo here](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUNllDWlNCRlRRSE8yQlJTSENZUlE1Q0oxMi4u)
