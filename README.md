@@ -2,7 +2,7 @@
 
 Here is a video of the sketch you will be making today:
 
-- [Video](https://youtu.be/lLVE7UirFVc)
+- [Video](https://youtu.be/FWhGyICNFfA)
 
 You can use any of the following references during the test, but no other internet resources are permitted and no collaboration
 
